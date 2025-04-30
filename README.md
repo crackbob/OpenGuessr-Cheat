@@ -1,0 +1,2 @@
+# OpenGuessr-Cheat
+yeah yeah
